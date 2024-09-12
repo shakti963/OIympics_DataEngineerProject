@@ -25,12 +25,14 @@ This project builds a full data analysis pipeline on Azure. It involves:
 The project uses Azure Databricks, Azure Data Factory, and other Azure services to achieve this.
 
 ## Architecture
+![architecture ](https://github.com/shakti963/OIympics_DataEngineerProject/blob/main/images/Archietecture.png)
 
 ### Overview
 
 The project architecture includes several key components:
 
-- **Azure Databricks**: Used for processing and analyzing the data. It provides a collaborative environment to handle large-scale data tasks and perform complex transformations.
+- **Azure Databricks**: Used for processing and analyzing the data. It provides a collaborative environment to handle large-scale data tasks and perform complex
+  transformations.
 
 - **Azure Data Factory**: Manages the data workflow, including extracting data from various sources, transforming it, and scheduling tasks. It ensures smooth data movement and processing.
 
